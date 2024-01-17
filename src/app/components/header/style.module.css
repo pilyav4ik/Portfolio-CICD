@@ -1,0 +1,15 @@
+.contactButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-right: 100px;
+  width: 80px;
+  height: 80px;
+  color: black;
+}
+
+.menuContactsButtons {
+  display: grid;
+  justify-content: end;
+}/*# sourceMappingURL=style.module.css.map */
